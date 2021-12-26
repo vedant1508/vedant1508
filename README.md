@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedant1508
 - 👀 I’m interested in Coding, problem Solving
-- 🌱 I’m currently learning B.E in (Artitifical Intelligence and Data Science
+- 🌱 I’m currently learning B.E in Artitifical Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vedantsalunke15@gmail.com
 
